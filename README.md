@@ -2,6 +2,7 @@
 
 ### About Me
 **FullStack Developer**
+
 **Learning**
  <div style="display: inline_block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
